@@ -1,6 +1,6 @@
 # Olá!👋 Me chamo <a href="https://github.com/JelsonMenezes"> Jelson Menezes </a>
 ### Formação Acadêmica:
--Técnico em Suporte e Manutenção de Informatica (TSMI) - Floresta/IF Sertão PE
+#### -Técnico em Suporte e Manutenção de Informatica (TSMI) - Floresta/IF Sertão PE
 #### -Tecnologo em Redes de Computadores (TRC) - Olinda/Centro Universitário Sumaré(Em andamento)
 
 ### Experiencia profissional:
