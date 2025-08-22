@@ -9,7 +9,7 @@
 
 
 ## 👩‍💻 Sobre
-- Atualmente, eu trabalho com [Laravel](https://laravel.com/)
+- Atualmente, eu trabalho com Laravel, Mariadb, Debian, Infra, Suporte ao usuário;
 - Minha linguagem favorita é [PHP](https://www.php.net/);
 - Meu Framework favorito é [Laravel 11](https://laravel.com/);
 
