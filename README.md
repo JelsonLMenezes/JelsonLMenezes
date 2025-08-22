@@ -2,7 +2,7 @@
 ### Formação Acadêmica:
 ### -Técnico em Suporte e Manutenção de Informatica (TSMI) - Floresta/IF Sertão PE
 ### -Tecnologo em Redes de Computadores (TRC) - Olinda/Centro Universitário Sumaré(Em andamento)
-
+###
 ### Experiencia profissional:
 ### -Técnico em Tecnologia da Informação (TI) - Olinda/IFPE campus Olinda
 
