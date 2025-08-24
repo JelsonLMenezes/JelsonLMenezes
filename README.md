@@ -5,7 +5,7 @@
 -Tecnologo em Redes de Computadores (TRC) - Olinda-PE / Centro Universitário Sumaré(Em andamento)
 
 ### Experiencia profissional:
--Técnico em Tecnologia da Informação (TI) - Olinda/IFPE campus Olinda
+-Técnico em Tecnologia da Informação (TI) - Olinda-PE / Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - campus Olinda
 
 
 ## 👩‍💻 Sobre
