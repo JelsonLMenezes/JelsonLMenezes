@@ -12,12 +12,12 @@
 
 Sou técnico de TI no IFPE, onde atuo como desenvolvedor Laravel, administrador de infraestrutura (Debian, Samba, VMware, Fortinet, Cisco) e suporte a usuários. Meu primeiro emprego foi na AGS Connect, com manutenção de PCs e instalação de rádio. Minha linguagem favorita é [PHP](https://www.php.net/) e meu framework favorito é [Laravel](https://laravel.com/).
 
-<div>
+<!-- <div>
   <a href="https://github.com/JelsonLMenezes">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelsonLMenezes&layout=compact&langs_count=7&theme=dracula"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JelsonLMenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+</div> -->
 
 
 ## 🛠️ Tech
