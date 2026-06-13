@@ -19,10 +19,6 @@ Sou técnico de TI no IFPE, onde atuo como desenvolvedor Laravel, administrador 
   </a>
 </div>
 
-## 📈 Contribuições no último ano & visão geral de atividade
-
-<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JelsonLMenezes&show_icons=true&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JelsonLMenezes&theme=dark&layout=compact)
 
 ## 🛠️ Tech
 
