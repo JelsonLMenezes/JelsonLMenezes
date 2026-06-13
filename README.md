@@ -10,32 +10,37 @@
 
 ## 👩‍💻 Sobre
 
-Sou técnico de TI no IFPE, onde também atuo como desenvolvedor Laravel 11, administrador de infraestrutura (Debian, Samba, VMware, Fortinet, Cisco) e suporte a usuários. Meu primeiro emprego foi na AGS Connect, com manutenção de PCs e instalação de rádio. Minha linguagem favorita é [PHP](https://www.php.net/) e meu framework favorito é [Laravel 11](https://laravel.com/).
+Sou técnico de TI no IFPE, onde atuo como desenvolvedor Laravel, administrador de infraestrutura (Debian, Samba, VMware, Fortinet, Cisco) e suporte a usuários. Meu primeiro emprego foi na AGS Connect, com manutenção de PCs e instalação de rádio. Minha linguagem favorita é [PHP](https://www.php.net/) e meu framework favorito é [Laravel](https://laravel.com/).
 
-## 📊 Statistics
-<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JelsonLMenezes&show_icons=true&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JelsonLMenezes&theme=dark&layout=compact)
+<div>
+  <a href="https://github.com/JelsonLMenezes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelsonLMenezes&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JelsonLMenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
-## 🛠 Languages and Tools
-[![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)](https://www.javascript.com/)
-[![PHP](https://img.icons8.com/color/40/000000/php.png)](https://www.php.net/)
-[![Laravel](https://img.icons8.com/fluent/40/000000/laravel.png)](https://laravel.com/)
-[![HTML5](https://img.icons8.com/color/40/000000/html-5.png)](https://devdocs.io/html/)
-[![CSS3](https://img.icons8.com/color/40/000000/css3.png)](https://devdocs.io/css/)
-[![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)](https://getbootstrap.com/)
-<!--  -->
-[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
-[![MariaDB](https://img.icons8.com/?size=48&id=nrY6pkbRkJCi&format=png&color=000000)](https://mariadb.org/)
-[![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
-[![GitHub](https://img.icons8.com/?size=48&id=44900&format=png&color=000000)](https://github.com/)
-[![GitLab](https://img.icons8.com/?size=48&id=34886&format=png&color=000000)](https://about.gitlab.com/)
-[![Git](https://img.icons8.com/color/40/000000/git.png)](https://git-scm.com/)
-![Terminal](https://img.icons8.com/color/40/000000/console.png)
-<!-- [![Semantic](http://semantic-ui.com/images/logo.png)](https://semantic-ui.com/introduction/getting-started.html) -->
+## 📈 Contribuições no último ano & visão geral de atividade
 
-<!--  ## 📚 What am I studying? -->
+[![Jelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JelsonLMenezes&theme=dracula&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Find me
-[![Instagram](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/jelsonmenezes96/)
-[![Linkedin](https://img.icons8.com/color/40/000000/linkedin.png)](https://www.linkedin.com/in/jelson-menezes-5251b3121/)
-[![Gmail](https://img.icons8.com/color/40/000000/gmail-new.png)](mailto:jelson.menezes96@gmail.com)
+## 🛠️ Tech
+
+- **Backend:**<br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+- **Frontend:**<br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+- **Database:**<br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+- **IDE:**<br>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+## ✍🏻 Find me here
+
+<div>
+  <a href="https://www.instagram.com/jelsonmenezes96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jelson-menezes-5251b3121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:jelson.menezes96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
