@@ -1,28 +1,16 @@
 # Olá!👋 Me chamo <a href="https://github.com/JelsonMenezes"> Jelson Menezes </a>
+
 ### Formação Acadêmica:
--Técnico em Suporte e Manutenção de Informatica (TSMI) - Floresta-PE / IF Sertão PE
-<br>
--Tecnologo em Redes de Computadores (TRC) - Olinda-PE / Centro Universitário Sumaré(Em andamento)
+- Técnico em Suporte e Manutenção de Informática (TSMI) - Floresta-PE / IF Sertão PE (2010–2013)
+- Tecnólogo em Redes de Computadores (TRC) - Olinda-PE / Centro Universitário Sumaré (em andamento)
 
 ### Experiencia profissional:
--Técnico em Tecnologia da Informação (TI) - Olinda-PE / Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco - campus Olinda
-
+- **AGS Connect** (julho a novembro de 2014) – Técnico de manutenção de computadores e auxiliar de instalação de internet via rádio.
+- **Instituto Federal de Pernambuco – campus Olinda** (dezembro de 2014 até o presente) – Técnico de Tecnologia da Informação; desde fevereiro de 2015, coordenador do setor de TIC.
 
 ## 👩‍💻 Sobre
 
-Iniciei minha trajetória na tecnologia com o curso técnico integrado em Manutenção e Suporte em Informática pelo IF Sertão Pernambucano (2010–2013). Meu primeiro emprego na área veio em 2014, entre julho e novembro, na **AGS Connect**, provedor de internet via rádio, onde atuei como técnico de manutenção de computadores e auxiliar de instalação de internet via rádio.
-
-Em dezembro de 2014, ingressei como Técnico de Tecnologia da Informação no IFPE e, desde fevereiro de 2015, coordeno o setor de TIC do IFPE Olinda. Atualmente curso Redes de Computadores na Sumaré e minhas atribuições incluem:
-
-- **Desenvolvimento de sistemas com Laravel 11** (meu foco atual): responsável por criar e manter soluções para o campus Olinda, como o **SIAGE** (Sistema Integrado de Administração e Gestão Estudantil), **Sistema Portaria** (controle físico de entrada/saída integrado ao SIAGE), **Sistema E-merenda** (validação de refeições e estatísticas para o PNAE), **Sistema Atendimento** (plataforma do estudante com agenda da psicóloga e solicitações), **SGAD** (gerenciamento de Active Directory), **Sistema Senha Olinda** (autoatendimento para redefinição de senha no Samba 4), **Home Page IFPE Olinda** (intranet com atalhos estratégicos) e, atualmente, o **RSC-TAE** (Sistema de Reconhecimento de Saberes e Competências dos TAE), que será implementado em todo o IFPE.
-
-- **Infraestrutura e redes**: trabalho com Debian, Samba 4, controlador de domínio, VMware ESX, Zabbix, redes sem fio, Cisco e Fortinet.
-
-- **Suporte técnico aos usuários**: atendo alunos, professores e servidores no dia a dia, resolvendo problemas de hardware, software, acesso a sistemas e redes.
-
-- **Gestão e coordenação**: lidero a equipe de TIC, projetos e a infraestrutura tecnológica do campus.
-
-Minha linguagem favorita é [PHP](https://www.php.net/) e meu framework favorito é [Laravel 11](https://laravel.com/).
+Sou técnico de TI no IFPE, onde também atuo como desenvolvedor Laravel 11, administrador de infraestrutura (Debian, Samba, VMware, Fortinet, Cisco) e suporte a usuários. Meu primeiro emprego foi na AGS Connect, com manutenção de PCs e instalação de rádio. Minha linguagem favorita é [PHP](https://www.php.net/) e meu framework favorito é [Laravel 11](https://laravel.com/).
 
 ## 📊 Statistics
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JelsonLMenezes&show_icons=true&theme=dark) -->
