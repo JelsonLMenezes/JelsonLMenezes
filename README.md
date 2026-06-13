@@ -2,7 +2,7 @@
 
 ### Formação Acadêmica:
 - Técnico em Suporte e Manutenção de Informática (TSMI) - Floresta-PE / IF Sertão PE (2010–2013)
-- Tecnólogo em Redes de Computadores (TRC) - Olinda-PE / Centro Universitário Sumaré (em andamento)
+- Tecnólogo em Redes de Computadores (TRC) - Olinda-PE / Centro Universitário Sumaré (2024 - em andamento)
 
 ### Experiencia profissional:
 - **AGS Connect** (julho a novembro de 2014) – Técnico de manutenção de computadores e auxiliar de instalação de internet via rádio.
@@ -10,7 +10,7 @@
 
 ## 👩‍💻 Sobre
 
-Sou técnico de TI no IFPE, onde atuo como desenvolvedor Laravel, administrador de infraestrutura (Debian, Samba, VMware, Fortinet, Cisco) e suporte a usuários. Meu primeiro emprego foi na AGS Connect, com manutenção de PCs e instalação de rádio. Minha linguagem favorita é [PHP](https://www.php.net/) e meu framework favorito é [Laravel](https://laravel.com/).
+Sou técnico de TI no IFPE, onde atuo como desenvolvedor Laravel, administrador de infraestrutura (Debian, Samba, VMware, Fortinet, Cisco) e suporte a usuários. Meu primeiro emprego foi na AGS Connect, com manutenção de PCs e instalação de internet. Minha linguagem favorita é [PHP](https://www.php.net/) e meu framework favorito é [Laravel](https://laravel.com/).
 
 <!-- <div>
   <a href="https://github.com/JelsonLMenezes">
